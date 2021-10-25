@@ -4,7 +4,7 @@ MarkOrganizer is a project to organize markdown files in an folder, like a proje
 
 
 
-## The problem :pensive:
+## The problem :building_construction:
 
 
 
@@ -27,4 +27,25 @@ When you download, open a terminal in the folder **src** and execute this comman
 ```bash
 python main.py
 ```
+
+
+
+## How to use? :file_folder:
+
+
+
+In this version I have included one some function, it can work for Typora's problem or one markdown simple file that you want use. The program will only create this markdown folder and organize the images, how I explained. 
+
+The program will be have two inputs:
+
+
+
+| Input                                   | Explanation                                                  |
+| --------------------------------------- | ------------------------------------------------------------ |
+| **Enter the markdown file path:**       | You have to put the path of you markdown file. Like: /home/myuser/Documents/myMark.md |
+| **Enter the new markdown folder path:** | You have to put the path of the folder you want to organize the Markdown. Like: /home/myuser/Documents/myUncreatedFolder |
+
+
+
+
 
